@@ -5,3 +5,5 @@
 Welcome back!
 
 Today I want to have a look at this amazing dataset I've found. It contains over 1.5 Million traffic accidents ocurring in the UK, and I hope we can get some cool and interesting insights from it.
+
+**Notebook was made in Kaggle, hyperlinks work perfectly there. Not so much in GitHub**
